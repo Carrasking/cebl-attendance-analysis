@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Power BI temporary / backup files
+*.pbix.bak
+~$*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
